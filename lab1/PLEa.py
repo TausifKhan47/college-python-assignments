@@ -1,0 +1,1 @@
+print("Welcome to Python\nWelcome to Python\nWelcome to Python\nWelcome to Python\nWelcome to Python");
